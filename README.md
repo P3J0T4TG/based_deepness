@@ -10,7 +10,7 @@
 
 **Sistema de detección automática de copas de árboles cítricos basado en YOLOv9 y ONNX Runtime**
 
-Desarrollado por: Pedro Juan Torres González | z32togop@uco.es | CitriData 
+Desarrollado por: Pedro Juan Torres González | z32togop@uco.es | [CitriData](https://www.uco.es/citridata/) 
 
 Basado en el desarrollo previo de [PUTVision--DeepNess](https://github.com/PUTvision/qgis-plugin-deepness?tab=readme-ov-file)
 
@@ -320,11 +320,11 @@ Ver [requirements.txt](requirements.txt) para lista completa.
 ## 👤 Autor
 
 **Pedro Juan Torres González**  
-CitriData - Tecnología para el Sector Citrícola
+CitriData - Espacio federado de datos, modelos y servicios en la cadena de valor de los cítricos en la Comunidad Autónoma de Andalucía.
 
 - 📧 Email: [z32togop@uco.es]
-- 🌐 Web: [www.citridata.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/pedrojtg/]
+- 🌐 Web: [CitriData Web](https://www.uco.es/citridata/) | [Linkedin CitriData](https://www.linkedin.com/company/citridata/)
+- 💼 LinkedIn: [Linkedin Personal](https://www.linkedin.com/in/pedrojtg/)
 
 ---
 
@@ -352,10 +352,9 @@ keywords = {QGIS, Deep learning, Remote sensing, Segmentation, Object detection}
 
 ## 📚 Referencias
 
+- [DeepNess Repository](https://github.com/PUTvision/qgis-plugin-deepness/tree/devel)
 - [YOLOv9 Paper](https://arxiv.org/abs/2402.13616)
 - [ONNX Documentation](https://onnx.ai/onnx/)
-- [OpenCV Documentation](https://docs.opencv.org/)
-- [DeepNess Repository](https://github.com/PUTvision/qgis-plugin-deepness/tree/devel)
 
 ---
 
