@@ -353,11 +353,11 @@ keywords = {QGIS, Deep learning, Remote sensing, Segmentation, Object detection}
 ## 📚 Referencias
 
 - [DeepNess Repository](https://github.com/PUTvision/qgis-plugin-deepness/tree/devel)
-- [YOLOv9 Paper](https://arxiv.org/abs/2402.13616)
-- [ONNX Documentation](https://onnx.ai/onnx/)
 - Aszkowski, P., Ptak, B., Kraft, M., Pieczyński, D., and Drapikowski, P. (2023). [Deepness: Deep neural remote sensing plugin for qgis.](https://www.sciencedirect.com/science/article/pii/S2352711023001917) SoftwareX, 23:101495.
 - Muñoz-Lorite, J., Pérez-Porras, F., Torres-González, P. J., Checa-Claudel, J., Mesas-Carrascosa, F. J., and Peña-Acevedo, A. (2025). [Modelo ensamblado random forest–yolo-v9 para la detección y clasificación de nuevas plantaciones de cítricos.](https://drive.google.com/file/d/1RYoGRaj1wTS7NgTGvKOzw52764W1gn3A/view) Córdoba, España. CitriData.
-
+- [YOLOv9 Paper](https://arxiv.org/abs/2402.13616)
+- [ONNX Documentation](https://onnx.ai/onnx/)
+  
 ---
 
 <div align="center">
