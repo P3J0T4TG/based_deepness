@@ -12,8 +12,7 @@
 
 Desarrollado por: Pedro Juan Torres González | z32togop@uco.es | CitriData 
 
-Basado en el desarrollo previo de PUTVision--DeepNess
-https://github.com/PUTvision/qgis-plugin-deepness?tab=readme-ov-file
+Basado en el desarrollo previo de [PUTVision--DeepNess](https://github.com/PUTvision/qgis-plugin-deepness?tab=readme-ov-file)
 
 [Artículo Original](https://www.sciencedirect.com/science/article/pii/S2352711023001917)
 
