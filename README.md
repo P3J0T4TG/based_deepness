@@ -75,7 +75,7 @@ Basado en el desarrollo previo de [PUTVision--DeepNess](https://github.com/PUTvi
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tuusuario/based_deepness.git
+git clone https://github.com/P3J0T4TG/based_deepness.git
 cd based_deepness
 ```
 
