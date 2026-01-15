@@ -81,8 +81,8 @@ cd based_deepness
 
 2. **Crear entorno virtual (recomendado)**
 ```bash
-python -m venv venv
-source venv/bin/activate  # En Windows: venv\Scripts\activate
+python -m venv venv-based_deepness
+source venv-based_deepness/bin/activate  # En Windows: venv\Scripts\activate
 ```
 
 3. **Instalar dependencias**
