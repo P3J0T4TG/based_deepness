@@ -1,6 +1,15 @@
-# CitriData - TE05-DeepNess Requirements
 # Detección de Copas de Árboles Cítricos usando YOLOv9 ONNX
-# Desarrollado por: Pedro Juan Torres González
+# Desarrollado por: Pedro Juan Torres González (z32togop@uco.es)
+
+"""
+Desarrollado en el marco del Proyecto Europeo CitriData
+https://www.uco.es/citridata/
+https://www.linkedin.com/company/citridata/
+
+
+Basado en el desarrollo previo de PUTVision--DeepNess
+https://github.com/PUTvision/qgis-plugin-deepness?tab=readme-ov-file
+"""
 
 # ===== LIBRERÍAS PRINCIPALES PARA VISIÓN COMPUTACIONAL =====
 numpy==1.26.4

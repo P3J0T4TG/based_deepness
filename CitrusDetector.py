@@ -1,7 +1,16 @@
 # CitrusDetector.py
-# Implementación completa y corregida del detector de cítricos usando YOLOv9
-# Autor: Pedro Juan Torres González
+# Autor: Pedro Juan Torres González -- z32togop@uco.es
 # Fecha: 11 de julio de 2025
+
+"""
+Desarrollado en el marco del Proyecto Europeo CitriData
+https://www.uco.es/citridata/
+https://www.linkedin.com/company/citridata/
+
+
+Basado en el desarrollo previo de PUTVision--DeepNess
+https://github.com/PUTvision/qgis-plugin-deepness?tab=readme-ov-file
+"""
 
 import os
 import numpy as np
